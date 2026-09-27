@@ -1,0 +1,7 @@
+{
+  "name": "Meeting Summaries",
+  "description": "Smart meeting minutes and summaries manager with action item tracking, decision logging, audio notes, and instant markdown export.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
